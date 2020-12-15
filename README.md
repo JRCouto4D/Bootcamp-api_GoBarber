@@ -77,6 +77,7 @@ yarn queue
 - Eslint
 - Prettier
 - Nodemon
+- Date-fns
 
 ## Backend
 
