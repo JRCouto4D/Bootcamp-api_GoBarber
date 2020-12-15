@@ -78,6 +78,9 @@ yarn queue
 - Prettier
 - Nodemon
 - Date-fns
+- Date-fns-tz
+- Bcryptjs
+- Jsonwebtoken
 
 ## Backend
 
